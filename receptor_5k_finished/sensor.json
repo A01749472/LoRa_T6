@@ -1,0 +1,12 @@
+{
+	"GPS": "None",
+	"IMU": "None",
+	"VelocidadLlantas": "None",
+	"PorcentajeLlenado": "None", 
+	"KilosProcesados": "None",
+	"VelocidadTrilladora": "None",
+	"NivelCombustible": "None",
+	"Kilometraje": "None",
+	"NivelAceite": "None",
+	"PresionLlantas": "None"
+}
